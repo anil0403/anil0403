@@ -4,7 +4,10 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="400" alt="Coding" src="./coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anil0403&label=Profile%20views&color=0e75b6&style=flat" alt="anil0403" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anil0403&label=Profile%20views&color=0e75b6&style=flat" alt="anil0403" />
+   <a href="https://github.com/anil0403?tab=followers">
+        <img src="https://img.shields.io/github/followers/anil0403?label=Followers&style=social" alt="followers-count">
+    </a></p>
 - 🔭 I’m currently working on [NextJS](https://github.com/anil0403/nextjs-template.git)
 
 - 🌱 I’m currently learning **Blockchain, Solidity**
