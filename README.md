@@ -30,6 +30,7 @@
 </p>
 <h3>Frontend Framework and Lib</h3>
 <p>
+     <img src="https://img.shields.io/badge/Next%20JS-20232A?style=for-the-badge&logo=next&logoColor=61DAFB%22%20alt=%22nextjs%22" alt="nextjs" />
      <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
