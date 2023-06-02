@@ -10,7 +10,7 @@
     </a></p>
 - 🔭 I’m currently working on [NextJS](https://github.com/anil0403/nextjs-template.git)
 
-- 🌱 I’m currently learning **Redux Toolkit**
+- 🌱 I’m currently learning **Blockchain, Solidity**
 
 - 💬 Ask me about **Node, ExpressJS, React, NextJS, Redux**
 
