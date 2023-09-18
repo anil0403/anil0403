@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
   
-- 💬 Ask me about **Node, ExpressJS, React, NextJS, Redux**
+- 💬 Ask me about **Node, ExpressJS, React, NextJS, MySQL, MongoDB, Prisma ORM**
 
 - 📫 How to reach me **dev.shresthaanil@gmail.com**
 
