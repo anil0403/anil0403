@@ -10,8 +10,8 @@
     </a></p>
 - 🔭 I’m currently working on [NextJS](https://github.com/anil0403/nextjs-template.git)
 
-- 🌱 I’m currently learning **Blockchain, Solidity**
-
+- 🌱 I’m currently learning **Full Stack Web Development**
+  
 - 💬 Ask me about **Node, ExpressJS, React, NextJS, Redux**
 
 - 📫 How to reach me **dev.shresthaanil@gmail.com**
