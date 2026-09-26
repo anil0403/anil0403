@@ -1,91 +1,144 @@
-<h1 align="center">Hi 👋, I'm Anil Shrestha</h1>
-<h3 align="center">Road To Full Stack Development</h3>
+<h1 align="center">Anil Shrestha</h1>
+
+<p align="center">
+  <b>Full Stack Web Developer</b> &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; TypeScript
+</p>
+
+<p align="center">
+  I build web apps end to end, from the database schema to the deployed interface.
+</p>
+
+<p align="center">
+  <a href="mailto:dev.shresthaanil@gmail.com"><img src="https://img.shields.io/badge/Email_me-dev.shresthaanil%40gmail.com-c8372d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email dev.shresthaanil@gmail.com" /></a>
+  <a href="https://linkedin.com/in/anil-shrestha-6875591b5"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/anil0403?tab=followers"><img src="https://img.shields.io/github/followers/anil0403?label=Follow&style=for-the-badge&logo=github&color=24292f" alt="Follow on GitHub" /></a>
+</p>
+
 <br>
-<!----------------------------------- About Section ------------------------------------>
-<div>
-  <img align="right" width="400" alt="Coding" src="./coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anil0403&label=Profile%20views&color=0e75b6&style=flat" alt="anil0403" />
-   <a href="https://github.com/anil0403?tab=followers">
-        <img src="https://img.shields.io/github/followers/anil0403?label=Followers&style=social" alt="followers-count">
-    </a></p>
-- 🔭 I’m currently working on [NextJS](https://github.com/anil0403/nextjs-template.git)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
-  
-- 💬 Ask me about **Node, ExpressJS, React, NextJS, MySQL, MongoDB, Prisma ORM**
+## About
 
-- 📫 How to reach me **dev.shresthaanil@gmail.com**
+<img align="right" width="340" alt="Illustration of a developer at a laptop" src="./coding.gif">
 
-- ⚡ Fun fact **I am an intovert**
-</div>
+- **What I do:** full stack web apps with Next.js, React, Node.js and Express
+- **Data layer:** MySQL, MongoDB and Prisma ORM
+- **Recently shipped:** [SajiloTools](https://sajilotools-nine.vercel.app), free browser-based PDF, image and QR tools
+- **Ask me about:** Node, Express, React, Next.js, MySQL, MongoDB, Prisma
+- **Reach me:** [dev.shresthaanil@gmail.com](mailto:dev.shresthaanil@gmail.com)
+- **Fun fact:** I'm an introvert, so my code does most of the talking
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
-<h2>Tech Stack</h2>
-<h3>Languages</h3>
+<br clear="right">
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://sajilotools-nine.vercel.app">SajiloTools</a></h3>
+      Everyday IT tools with no sign-up: online clipboard, QR codes, PDF merge/split and image resize. Everything except the clipboard runs in the browser.
+      <br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Tailwind</code> <code>pdf-lib</code>
+      <br><br>
+      <a href="https://sajilotools-nine.vercel.app"><b>Live site →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://proud-nepal-store.vercel.app">Proud Nepal IT Supplies</a></h3>
+      E-commerce store for a laptop retailer, with product catalog, cart and user authentication.
+      <br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Zustand</code> <code>Clerk</code>
+      <br><br>
+      <a href="https://proud-nepal-store.vercel.app"><b>Live site →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://streamger-site.vercel.app">Streamger</a></h3>
+      Online streaming platform website.
+      <br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
+      <br><br>
+      <a href="https://streamger-site.vercel.app"><b>Live site →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/anil0403/next-auth-template-google-github">Next Auth Template</a></h3>
+      Starter template for Next.js apps with Google and GitHub sign-in ready to go.
+      <br><br>
+      <code>Next.js</code> <code>NextAuth</code> <code>Prisma</code> <code>Tailwind</code>
+      <br><br>
+      <a href="https://nextjs-template-liart-nine.vercel.app"><b>Live site →</b></a> &nbsp;
+      <a href="https://github.com/anil0403/next-auth-template-google-github"><b>Code →</b></a>
+    </td>
+  </tr>
+</table>
+
+## Tech stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="HTML, CSS, JavaScript, TypeScript, Python" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap" alt="Next.js, React, Redux Toolkit, Tailwind CSS, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma" alt="Node.js, Express, Django, Prisma" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="MySQL, MongoDB, Firebase" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postman,wordpress" alt="Postman, WordPress" /> &nbsp;+ Canva</td>
+  </tr>
+</table>
+
+## GitHub activity
+
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img width="100%" alt="GitHub profile summary" src="./profile-summary-card-output/github/0-profile-details.svg">
+  </picture>
 </p>
-<h3>Frontend Framework and Lib</h3>
+
 <p>
-     <img src="https://img.shields.io/badge/Next%20JS-20232A?style=for-the-badge&logo=next&logoColor=61DAFB%22%20alt=%22nextjs%22" alt="nextjs" />
-     <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-    <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img width="49%" alt="Most committed languages" src="./profile-summary-card-output/github/2-most-commit-language.svg">
+  </picture>
 </p>
-<h3>Backend Framework and Lib</h3>
+
 <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anil0403&theme=github-dark-blue&hide_border=true">
+    <img width="100%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=anil0403&hide_border=true">
+  </picture>
 </p>
-<h3>Database</h3>
+
 <p>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anil0403/anil0403/output/github-snake-dark.svg">
+    <img width="100%" alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/anil0403/anil0403/output/github-snake.svg">
+  </picture>
 </p>
-<h3>Other</h3>
+
+## Elsewhere
+
 <p>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+  <a href="https://twitter.com/anilshrestha43">X / Twitter</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/anil-shrestha-6875591b5">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://fb.com/anil0403">Facebook</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/anilshrestha___">Instagram</a>
 </p>
 
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-<p align="left">
-<a href="https://twitter.com/anilshrestha43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anilshrestha43" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anil-shrestha-6875591b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anil-shrestha-6875591b5" height="30" width="40" /></a>
-<a href="https://fb.com/anil0403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anil0403" height="30" width="40" /></a>
-<a href="https://instagram.com/anilshrestha___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anilshrestha___" height="30" width="40" /></a>
-</p>
-
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-<h2><i>My GitHub Stats</i></h2>
-
-<p align="left" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=anil0403&show_icons=true&locale=en" alt="anil0403"  height="150" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anil0403&show_icons=true&locale=en&layout=compact" alt="anil0403" height="150"/>
-</p>
-
-<p> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anil0403&" alt="anil0403" height="160" width="max" />
 <p>
-
-<!----------------------------------- Profile View Section ------------------------------------>
-                                                                                                        
-<p align="left">
-    <a href="https://github.com/anil0403">
-        <img src="https://komarev.com/ghpvc/?username=anil0403&label=Profile%20views&color=0e75b6&style=flat" alt="anil0403" />
-  </a>
-    <a href="https://github.com/anil0403?tab=followers">
-        <img src="https://img.shields.io/github/followers/anil0403?label=Followers&style=social" alt="followers-count">
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=anil0403&label=Profile%20views&color=24292f&style=flat" alt="Profile views" />
 </p>
-
-
