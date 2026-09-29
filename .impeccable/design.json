@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-29T00:00:00Z",
+  "title": "Design System: Anil Shrestha — GitHub profile",
+  "extensions": {
+    "colorMeta": {
+      "signal-red": { "role": "primary", "displayName": "Signal Red" },
+      "linkedin-blue": { "role": "secondary", "displayName": "LinkedIn Blue" },
+      "github-ink": { "role": "secondary", "displayName": "GitHub Ink" },
+      "card-link-blue": { "role": "neutral", "displayName": "Card Link Blue" },
+      "card-muted-slate": { "role": "neutral", "displayName": "Card Muted Slate" },
+      "card-muted-slate-dark": { "role": "neutral", "displayName": "Card Muted Slate (dark)" },
+      "contribution-green": { "role": "neutral", "displayName": "Contribution Green" },
+      "canvas-light": { "role": "neutral", "displayName": "Canvas (light)" },
+      "canvas-dark": { "role": "neutral", "displayName": "Canvas (dark)" }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "The name, once, centered h1." },
+      "headline": { "displayName": "Headline", "purpose": "Section titles (##)." },
+      "body": { "displayName": "Body", "purpose": "Descriptions and About bullets." },
+      "label": { "displayName": "Label", "purpose": "<code> stack tags on project cards." }
+    }
+  },
+  "components": [
+    {
+      "name": "Email badge",
+      "kind": "button",
+      "refersTo": "contact-badge-email",
+      "description": "Primary call to action in the header contact row.",
+      "html": "<a class=\"ds-badge ds-badge-email\" href=\"#\"><span class=\"ds-badge-l\">EMAIL ME</span><span class=\"ds-badge-r\">DEV.SHRESTHAANIL@GMAIL.COM</span></a>",
+      "css": ".ds-badge{display:inline-flex;height:28px;font:700 11px/28px Verdana,sans-serif;letter-spacing:.1em;color:#fff;text-decoration:none}.ds-badge-l{padding:0 10px;background:rgba(0,0,0,.15)}.ds-badge-r{padding:0 10px}.ds-badge-email{background:#c8372d}.ds-badge:hover{filter:brightness(1.1)}.ds-badge:focus-visible{outline:2px solid #0969da;outline-offset:2px}"
+    },
+    {
+      "name": "Project card",
+      "kind": "card",
+      "description": "One cell of the 2x2 featured-projects table.",
+      "html": "<div class=\"ds-card\"><h3><a href=\"#\">SajiloTools</a></h3><p>Everyday IT tools with no sign-up.</p><p><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code></p><a href=\"#\"><b>Live site →</b></a></div>",
+      "css": ".ds-card{border:1px solid #d0d7de;padding:6px 13px;font:14px/1.5 -apple-system,'Segoe UI',sans-serif;max-width:400px}.ds-card h3{font-size:1.25em;margin:16px 0 8px}.ds-card a{color:#0969da;text-decoration:none}.ds-card a:hover{text-decoration:underline}.ds-card code{font-size:85%;padding:.2em .4em;background:rgba(175,184,194,.2);border-radius:6px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Shipped Workbench",
+    "overview": "A developer's front door that reads like a bench of finished work: who he is in one line, a way to reach him in one click, then the live projects laid out side by side. The page borrows GitHub's typography, canvas, and light/dark behavior and spends its expressive budget on the brand-colored contact badges, the two-column project cards, and the coding illustration.",
+    "keyCharacteristics": [
+      "Centered identity header, left-aligned body.",
+      "Brand-colored, square-cornered contact badges as the primary call to action.",
+      "Projects as a 2×2 card grid with live links, never a bare list.",
+      "Every data image paired light/dark through <picture>.",
+      "Calm, professional copy; one line of personality."
+    ],
+    "rules": [
+      { "name": "The Accents-Stay-Up-Top Rule", "body": "Saturated brand color appears only in the contact badge row.", "section": "colors" },
+      { "name": "The Paired-Image Rule", "body": "Any image that contains a background or text color ships as a <picture> with a prefers-color-scheme: dark source.", "section": "colors" },
+      { "name": "The One-H1 Rule", "body": "The name is the only <h1>. Headings never skip a level.", "section": "typography" }
+    ],
+    "dos": [
+      "Do lead with shipped, live projects; every card has a working link.",
+      "Do pair every colored data image with a dark variant via <picture>.",
+      "Do keep brand color in the contact badges.",
+      "Do write alt text that carries the same information as the image."
+    ],
+    "donts": [
+      "Don't neutralize the contact badges to gray or replace the project cards with a plain Markdown table.",
+      "Don't add badge walls, typing-SVG banners, or trophy grids.",
+      "Don't invent metrics, employers, or years of experience.",
+      "Don't rely on anything GitHub strips: style, class, script, custom fonts."
+    ]
+  }
+}

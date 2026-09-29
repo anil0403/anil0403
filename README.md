@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./coding-dark.gif">
+    <img width="420" alt="Illustrated developer in a beanie coding at a laptop" src="./coding.gif">
+  </picture>
+</p>
+
 <h1 align="center">Anil Shrestha</h1>
 
 <p align="center">
@@ -18,16 +25,10 @@
 
 ## About
 
-<img align="right" width="340" alt="Illustration of a developer at a laptop" src="./coding.gif">
-
 - **What I do:** full stack web apps with Next.js, React, Node.js and Express
 - **Data layer:** MySQL, MongoDB and Prisma ORM
 - **Recently shipped:** [SajiloTools](https://sajilotools-nine.vercel.app), free browser-based PDF, image and QR tools
-- **Ask me about:** Node, Express, React, Next.js, MySQL, MongoDB, Prisma
-- **Reach me:** [dev.shresthaanil@gmail.com](mailto:dev.shresthaanil@gmail.com)
 - **Fun fact:** I'm an introvert, so my code does most of the talking
-
-<br clear="right">
 
 ## Featured projects
 
@@ -39,7 +40,7 @@
       <br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Tailwind</code> <code>pdf-lib</code>
       <br><br>
-      <a href="https://sajilotools-nine.vercel.app"><b>Live site →</b></a>
+      <a href="https://sajilotools-nine.vercel.app"><b>Visit SajiloTools →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://proud-nepal-store.vercel.app">Proud Nepal IT Supplies</a></h3>
@@ -47,7 +48,7 @@
       <br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>Zustand</code> <code>Clerk</code>
       <br><br>
-      <a href="https://proud-nepal-store.vercel.app"><b>Live site →</b></a>
+      <a href="https://proud-nepal-store.vercel.app"><b>Visit the store →</b></a>
     </td>
   </tr>
   <tr>
@@ -57,16 +58,16 @@
       <br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code>
       <br><br>
-      <a href="https://streamger-site.vercel.app"><b>Live site →</b></a>
+      <a href="https://streamger-site.vercel.app"><b>Visit Streamger →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/anil0403/next-auth-template-google-github">Next Auth Template</a></h3>
+      <h3><a href="https://nextjs-template-liart-nine.vercel.app">Next Auth Template</a></h3>
       Starter template for Next.js apps with Google and GitHub sign-in ready to go.
       <br><br>
       <code>Next.js</code> <code>NextAuth</code> <code>Prisma</code> <code>Tailwind</code>
       <br><br>
-      <a href="https://nextjs-template-liart-nine.vercel.app"><b>Live site →</b></a> &nbsp;
-      <a href="https://github.com/anil0403/next-auth-template-google-github"><b>Code →</b></a>
+      <a href="https://nextjs-template-liart-nine.vercel.app"><b>Try the demo →</b></a> &nbsp;
+      <a href="https://github.com/anil0403/next-auth-template-google-github"><b>Read the code →</b></a>
     </td>
   </tr>
 </table>
@@ -97,6 +98,10 @@
 </table>
 
 ## GitHub activity
+
+<details>
+<summary>Stats, languages and contribution graph</summary>
+<br>
 
 <p>
   <picture>
@@ -130,15 +135,10 @@
   </picture>
 </p>
 
-## Elsewhere
+</details>
 
-<p>
-  <a href="https://twitter.com/anilshrestha43">X / Twitter</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/anil-shrestha-6875591b5">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://fb.com/anil0403">Facebook</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/anilshrestha___">Instagram</a>
-</p>
+## Get in touch
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=anil0403&label=Profile%20views&color=24292f&style=flat" alt="Profile views" />
-</p>
+The fastest way to reach me is email: **[dev.shresthaanil@gmail.com](mailto:dev.shresthaanil@gmail.com)**. I'm also on [LinkedIn](https://linkedin.com/in/anil-shrestha-6875591b5).
+
+<sub>Elsewhere: <a href="https://twitter.com/anilshrestha43">X / Twitter</a> · <a href="https://fb.com/anil0403">Facebook</a> · <a href="https://instagram.com/anilshrestha___">Instagram</a></sub>
