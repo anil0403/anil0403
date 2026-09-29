@@ -99,8 +99,15 @@
 
 ## GitHub activity
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anil0403/anil0403/output/github-snake-dark.svg">
+    <img width="100%" alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/anil0403/anil0403/output/github-snake.svg">
+  </picture>
+</p>
+
 <details>
-<summary>Stats, languages and contribution graph</summary>
+<summary>Stats and languages</summary>
 <br>
 
 <p>
@@ -125,13 +132,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anil0403&theme=github-dark-blue&hide_border=true">
     <img width="100%" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=anil0403&hide_border=true">
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anil0403/anil0403/output/github-snake-dark.svg">
-    <img width="100%" alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/anil0403/anil0403/output/github-snake.svg">
   </picture>
 </p>
 
